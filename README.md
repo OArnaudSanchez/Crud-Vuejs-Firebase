@@ -1,4 +1,4 @@
-# crud-firebase
+# CRUD firebase + Vuejs
 
 ## Project setup
 ```
