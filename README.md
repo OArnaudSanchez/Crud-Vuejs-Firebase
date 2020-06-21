@@ -1,5 +1,7 @@
 # CRUD firebase + Vuejs
 
+ https://crud-personas-30b60.web.app/#/
+
 ## Project setup
 ```
 npm install
