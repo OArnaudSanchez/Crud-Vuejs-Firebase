@@ -7,7 +7,7 @@
             </router-link>
         </div>
         <div>
-            <table class="table table-bordered">
+            <table class="table table-bordered table-responsive">
                 <thead class="thead">
                     <tr>
                         <th scope="col">Nombre</th>
